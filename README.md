@@ -80,3 +80,9 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 
 ## Results
 
+**Campaign State vs Parent-Category** 
+* Of the 4000 campaigns, over 2000 campaigns were successful, 1500 failed, 350 cancelled and 50 are live.
+* Theatre, Music, and Film & Video makeup 75% of the successful campaigns.
+* Theatre and Technology makeup for 45% of the failed campaign.
+* Technology makeup 50% of the canceled campaigns.
+
