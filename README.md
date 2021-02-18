@@ -68,7 +68,10 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Select the Goal, % Successful, % Failed and % Canceled and click on Insert tab to create Line Graph
 * Format titles, axis as necessary.
  
-
+**Statistics Summary** - Backers Count for Successful and Failed Campaigns
+* Filter for Success Campaigns under the state column and copy and copy and paste this column and the backers count into another tab.
+* Filter for Failed Campaigns under the state column and copy and paste this column and the backers count beside teh successful campaigns information.
+* 
 
 ## Excel Analysis
 
