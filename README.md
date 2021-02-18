@@ -60,9 +60,14 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 
 **Line Graph** - % of Campaigns' State vs. Funding Goals
 * Create a new tab with 8 columns and 12 rows.
- * Columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, % Successful, % Failed, % Canceled
- * Rows (under Goal Column): <1000, 1000-4999, 5000-9999, 10000-14999, 15000-19999, 20000-24999, 25000-29999, 30000-34999, 35000-39999, 40000-44999, 45000-49999, >=50000
-
+  * Columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, % Successful, % Failed, % Canceled
+  * Rows (under Goal Column): <1000, 1000-4999, 5000-9999, 10000-14999, 15000-19999, 20000-24999, 25000-29999, 30000-34999, 35000-39999, 40000-44999, 45000-49999, >=50000
+* Use COUNTIFS formula to calculate Number Sucessful, Failed and Canceled
+* Sum up the the figures in Total Project
+* Calculate the % of Project Status against Total Project
+* Select the Goal, % Successful, % Failed and % Canceled and click on Insert tab to create Line Graph
+* Format titles, axis as necessary.
+ 
 
 
 ## Excel Analysis
