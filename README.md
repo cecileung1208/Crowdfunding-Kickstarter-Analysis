@@ -8,11 +8,11 @@
 
 ## Requirements
 
-* Create a stacked bar graph displaying the number of campaigns' state vs. parent-category with a dropdown menu to see the results by country.
-* Create a stacked bar graph displaying the number of campaigns' state vs. sub-category with a dropdown menu to see the results by country and parent-category.
-* Create a line graph displaying the number of campaigns' state for each month with a dropdown menu to see the results by years and parent-category.
-* Calculate number and % of the campaigns' state against the funding goals.
-* Create a statistical summary for the backers count in successful and failed campaings.
+* **Stacked Bar Graph** - Number of Campaign's State vss Parent-Category with Drop Down Menu to select results for each Country
+* **Stacked Bar Graph** - Number of Campaigns' State vs. Sub-category with Drop Down Menus to select results for each Country and by Parent-Category.
+* **Line Graph** - Number of Campaigns' State for each Month and Drop Down Menus to select results for each Year and by Parent-Category.
+* **Line Graph** - % of Campaigns' State vs. Funding Goals.
+* **Statistics Summary** - Backers Count for Successful and Failed Campaigns
   * Statistic calculation includes mean, median, minimum value, maximum value, variance (population & sample) and standard deviation (population & sample).
   
 ## Method 
@@ -24,7 +24,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Create a new column Average Donation that uses a formula to uncover how much each backer for the project paid on average.
 * Create two new columns, Category andSub-Category, which use formulas to split the Category and Sub-Category column into two parts.
 
-**Stacked Bar Graph - Number of campaigns vs. parent-category with drop down menu for each country**
+**Stacked Bar Graph** - Number of Campaign's State vss Parent-Category with Drop Down Menu to select results for each Country
 * Insert pivot tab in another tab.
 * Field List will be populated and drag the following:
   * state into the columns section
@@ -35,7 +35,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Choose columns and ensure it is in a bar stacked format.
 * Format titles, axis as necessary.
 
-**Stacked Bar Graph - Number of campaigns vs. sub-category with drop down menu for each country and parent-category**
+**Stacked Bar Graph** - Number of Campaigns' State vs. Sub-category with Drop Down Menus to select results for each Country and by Parent-Category.
 * Insert pivot tab in another tab.
 * Field List will be populated and drag the following:
   * state into the columns section
@@ -46,7 +46,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Choose columns and ensure it is in a bar stacked format.
 * Format titles, axis as necessary.
 
-**Line Graph - Campaign State for each month with drop down menu for years and parent-category**
+**Line Graph** - Number of Campaigns' State for each Month and Drop Down Menus to select results for each Year and by Parent-Category.
 * In the worksheet, create 2 columns date created conversion and date end conversion to [format the date](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) from the launched_at and deadline columns respectively.
 * Insert pivot tab in another tab.
 * Field List will be populated and drag the following:
@@ -57,6 +57,12 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Upon completing the pivot table, ensure it is selected and click the Pivot Chart button from the PivotAnalyze Menu.
 * Choose lines and create graph.
 * Format titles, axis as necessary.
+
+**Line Graph** - % of Campaigns' State vs. Funding Goals
+* Create a new tab with 8 columns and 12 rows.
+ * Columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, % Successful, % Failed, % Canceled
+ * Rows (under Goal Column): <1000, 1000-4999, 5000-9999, 10000-14999, 15000-19999, 20000-24999, 25000-29999, 30000-34999, 35000-39999, 40000-44999, 45000-49999, >=50000
+
 
 
 ## Excel Analysis
