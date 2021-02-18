@@ -8,7 +8,7 @@
 
 ## Requirements
 
-* **Stacked Bar Graph** - Number of Campaign's State vss Parent-Category with Drop Down Menu to select results for each Country
+* **Stacked Bar Graph** - Number of Campaign's State vs. Parent-Category with Drop Down Menu to select results for each Country
 * **Stacked Bar Graph** - Number of Campaigns' State vs. Sub-category with Drop Down Menus to select results for each Country and by Parent-Category.
 * **Line Graph** - Number of Campaigns' State for each Month and Drop Down Menus to select results for each Year and by Parent-Category.
 * **Line Graph** - % of Campaigns' State vs. Funding Goals.
@@ -17,7 +17,7 @@
   
 ## Method 
 
-**Worksheet**
+**Campaign Details**
 An excel file has been provided with the details of the 4,000 projects to conduct the following analysis:
 * Define the campaign status in the "state" column with conditional formatting using a 4-color scale. 
 * Create a new column Percent Funded to calculate the Percent(%) Fundedd for each project and use conditional formatting using a 3-color scale.
@@ -25,7 +25,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Create two new columns, Category andSub-Category, which use formulas to split the Category and Sub-Category column into two parts.
 
 **Stacked Bar Graph** - Number of Campaign's State vss Parent-Category with Drop Down Menu to select results for each Country
-* Insert pivot tab in another tab.
+* Insert pivot tab in a new tab.
 * Field List will be populated and drag the following:
   * state into the columns section
   * parent-category into the rows section
@@ -71,8 +71,12 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 **Statistics Summary** - Backers Count for Successful and Failed Campaigns
 * Filter for Success Campaigns under the state column and copy and copy and paste this column and the backers count into another tab.
 * Filter for Failed Campaigns under the state column and copy and paste this column and the backers count beside teh successful campaigns information.
-* 
+* Create a table with Columns for Successful and Failed.
+* Create rows for mean, median, minimum value, maximum value, variance (population & sample) and standard deviation (population & sample).
 
 ## Excel Analysis
 
+Details of the results are in the [Crowdfunding Kickstarter Analysis file](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Crowdfunding%20Kickstarter%20Analysis.xlsx).
+
 ## Results
+
