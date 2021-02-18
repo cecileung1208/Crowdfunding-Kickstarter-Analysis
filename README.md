@@ -14,8 +14,6 @@
 4. Number and % of campaigns that are successful, failed, cancel, and live by funding goals summarizing in a table.
 5. Determine the mean, median, minimum value, maximum value, variance (population & sample) and standard deviation (population & sample) for the backers count in successful and failed campaigns.
 
-**Statistic
-
 ## Method 
 
 An excel file has been provided with the details of the 4,000 projects to conduct the following analysis:
