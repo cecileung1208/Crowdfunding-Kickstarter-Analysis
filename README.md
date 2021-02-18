@@ -8,7 +8,7 @@
 
 ## Requirements
 
-* **Stacked Bar Graph** - Number of Campaign's State vs. Parent-Category with Drop Down Menu to select results for each Country
+* **Stacked Bar Graph** - Number of Campaigns' State vs. Parent-Category with Drop Down Menu to select results for each Country
 * **Stacked Bar Graph** - Number of Campaigns' State vs. Sub-category with Drop Down Menus to select results for each Country and by Parent-Category.
 * **Line Graph** - Number of Campaigns' State for each Month and Drop Down Menus to select results for each Year and by Parent-Category.
 * **Line Graph** - % of Campaigns' State vs. Funding Goals.
@@ -24,7 +24,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Create a new column Average Donation that uses a formula to uncover how much each backer for the project paid on average.
 * Create two new columns, Category andSub-Category, which use formulas to split the Category and Sub-Category column into two parts.
 
-**Stacked Bar Graph** - Number of Campaign's State vss Parent-Category with Drop Down Menu to select results for each Country
+**# of Campaign State vs. Parent-Category with Country Drop Down Feature
 * Insert pivot tab in a new tab.
 * Field List will be populated and drag the following:
   * state into the columns section
@@ -35,7 +35,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Choose columns and ensure it is in a bar stacked format.
 * Format titles, axis as necessary.
 
-**Stacked Bar Graph** - Number of Campaigns' State vs. Sub-category with Drop Down Menus to select results for each Country and by Parent-Category.
+**# of Campaign State vs. Sub-Category with Country and Parent-Category Drop Down Feature
 * Insert pivot tab in another tab.
 * Field List will be populated and drag the following:
   * state into the columns section
@@ -46,7 +46,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Choose columns and ensure it is in a bar stacked format.
 * Format titles, axis as necessary.
 
-**Line Graph** - Number of Campaigns' State for each Month and Drop Down Menus to select results for each Year and by Parent-Category.
+**# of Campaign State by Month with Year and Parent-Category Drop Down Feature
 * In the worksheet, create 2 columns date created conversion and date end conversion to [format the date](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) from the launched_at and deadline columns respectively.
 * Insert pivot tab in another tab.
 * Field List will be populated and drag the following:
@@ -58,7 +58,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Choose lines and create graph.
 * Format titles, axis as necessary.
 
-**Line Graph** - % of Campaigns' State vs. Funding Goals
+**% of Campaign State vs. Funding Goals 
 * Create a new tab with 8 columns and 12 rows.
   * Columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, % Successful, % Failed, % Canceled
   * Rows (under Goal Column): <1000, 1000-4999, 5000-9999, 10000-14999, 15000-19999, 20000-24999, 25000-29999, 30000-34999, 35000-39999, 40000-44999, 45000-49999, >=50000
@@ -68,7 +68,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Select the Goal, % Successful, % Failed and % Canceled and click on Insert tab to create Line Graph
 * Format titles, axis as necessary.
  
-**Statistics Summary** - Backers Count for Successful and Failed Campaigns
+**Statistics of Backers Count for Successful and Failed Campaigns
 * Filter for Success Campaigns under the state column and copy and copy and paste this column and the backers count into another tab.
 * Filter for Failed Campaigns under the state column and copy and paste this column and the backers count beside teh successful campaigns information.
 * Create a table with Columns for Successful and Failed.
