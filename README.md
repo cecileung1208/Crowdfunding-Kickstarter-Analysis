@@ -85,4 +85,15 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 * Theatre, Music, and Film & Video makeup 75% of the successful campaigns.
 * Theatre and Technology makeup for 45% of the failed campaign.
 * Technology makeup 50% of the canceled campaigns.
+* There are more failures than success campaigns for categories in food, games, photography and publishing.
 
+![Image]()
+
+**Campaign State vs Sub-Category**
+* Plays, rock, documentary, hardware and indie rock make up of 65% of the successful campaigns.
+* Classical music, documentary, electronic music, hardware, metal, nonfiction, pop, tabletop games, rock and television have 100% success rate.
+* Food trucks, translations, wearables, and web have mainly failed and cancelled campaigns.
+* Animation, children's books, drama, fiction, gadgets, jazz, mobile games, nature, people, places, restaurants, and video games have 100% failure rate.
+* All campaigns for world music, science fiction, art books and audio have 100% cancellation rate.
+
+![Image]()
