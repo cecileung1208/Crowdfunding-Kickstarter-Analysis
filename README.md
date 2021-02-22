@@ -106,9 +106,16 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Month.png)
 
 
-**Campaign State vs Month**
+**Campaign State vs Percentage**
 * The higher the funding goals, the lower the successful rates.
 * The higher the funding goals, the higher the failure rates.
 * Cancellation rates gradually increase when the funding goals increase.
 
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Percentage.png)
+
+**Backer's Count Statistics**
+* The more successful the campaign, the more backers'count there are.
+* The mean in successful campaigns have 10 times more backers count than failed campaigns.
+* There is more variability with successful campaigns compared to the failed campaigns and this makes sense because  the range of value is a lot higher in the successful campaign are hence becomes more spread out from the mean.  
+
+ 
