@@ -87,7 +87,7 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 * Technology makeup 50% of the canceled campaigns.
 * There are more failures than success campaigns for categories in food, games, photography and publishing.
 
-![Image]()
+![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Parent.png)
 
 **Campaign State vs Sub-Category**
 * Plays, rock, documentary, hardware and indie rock make up of 65% of the successful campaigns.
@@ -96,4 +96,4 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 * Animation, children's books, drama, fiction, gadgets, jazz, mobile games, nature, people, places, restaurants, and video games have 100% failure rate.
 * All campaigns for world music, science fiction, art books and audio have 100% cancellation rate.
 
-![Image]()
+![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Sub-Category.png)
