@@ -97,3 +97,10 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 * All campaigns for world music, science fiction, art books and audio have 100% cancellation rate.
 
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Sub-Category.png)
+
+**Campaign State vs Month**
+* There are the most successful canoaigns during April to June.  
+* Successful and Failed campaigns are pretty much the same for September and December.
+* Cancellation campaigns remain constant throughout the year.
+
+![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Month.png)
