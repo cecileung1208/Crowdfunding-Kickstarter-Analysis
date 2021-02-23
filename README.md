@@ -93,7 +93,11 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 
 ## Excel Analysis
 
-Details of the results are in the [Crowdfunding Kickstarter Analysis file](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Crowdfunding%20Kickstarter%20Analysis.xlsx).
+Requirements of Results:
+[Crowdfunding Kickstarter Analysis file](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Crowdfunding%20Kickstarter%20Analysis.xlsx).
+
+Limitations of Excel and Potential Tables/Graphs:
+[Analysis](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Analysis.docx)
 
 ## Results
 
@@ -131,10 +135,11 @@ Details of the results are in the [Crowdfunding Kickstarter Analysis file](https
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/State%20vs%20Percentage.png)
 
 **Backer's Count Statistics**
-* The mean determines the average number of backers for successful and failed campaigns.
+* The mean is the average number of backers for the campaigns. This mean figure from the above table will determine how many backers I will usually have for the campaign if it is a success or a failure.
 * The median is the middle figure of all the samples in the successful and failed campaigns.
-* These figures are useful because it tells us what is the normal in each situation.  For example, the organizers will know if the project is a success or failure given how many backers they receive for the project.  It benchmarks on how well the campaign is doing against the perceived average. 
+* These figures are useful because it tells us what is normal in each situation.  For example, the organizers will know if the project is a success or failure given how many backers they receive for the project.
+* It is helpful in determining one set of data against the entire set of data.  It benchmarks on how well the campaign is doing against the perceived average. 
 * There is more variability with successful campaigns compared to the failed campaigns and this makes sense because  the range of value is a lot higher in the successful campaign are hence becomes more spread out from the mean.  
-  * Successful campaign range is up to 26457 vs failed campaign of 1293.
+  * The range for the successful campaigns is 26,457 vs. 1293 for failed campaigns.
 
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/Backers'%20Count%20Statistics.png)
