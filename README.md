@@ -17,7 +17,8 @@
   
 ## Method 
 <details>
- <summary>**Campaign Details**</summary><br>
+ <summary>**Campaign Details**</summary>
+ 
 An excel file has been provided with the details of the 4,000 projects to conduct the following analysis:
 * Define the campaign status in the "state" column with conditional formatting using a 4-color scale. 
 * Create a new column Percent Funded to calculate the Percent(%) Fundedd for each project and use conditional formatting using a 3-color scale.
