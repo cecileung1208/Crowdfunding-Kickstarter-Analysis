@@ -140,6 +140,6 @@ Limitations of Excel and Potential Tables/Graphs:
 * These figures are useful because it tells us what is normal in each situation.  For example, the organizers will know if the project is a success or failure given how many backers they receive for the project.
 * It is helpful in determining one set of data against the entire set of data.  It benchmarks on how well the campaign is doing against the perceived average. 
 * There is more variability with successful campaigns compared to the failed campaigns and this makes sense because  the range of value is a lot higher in the successful campaign are hence becomes more spread out from the mean.  
-  * The range for the successful campaigns is 24,657 vs. 1293 for failed campaigns.
+  * The range for the successful campaigns is 26,457 vs. 1293 for failed campaigns.
 
 ![Image](https://github.com/cecileung1208/Crowdfunding-Kickstarter-Analysis/blob/master/Image/Backers'%20Count%20Statistics.png)
