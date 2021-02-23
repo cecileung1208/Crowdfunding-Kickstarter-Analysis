@@ -17,7 +17,7 @@
   
 ## Method 
 <details>
- <summary>**Campaign Details**</summary>
+ <summary><b>Campaign Details</b></summary>
  
 An excel file has been provided with the details of the 4,000 projects to conduct the following analysis:
 * Define the campaign status in the "state" column with conditional formatting using a 4-color scale. 
@@ -26,7 +26,9 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Create two new columns, Category andSub-Category, which use formulas to split the Category and Sub-Category column into two parts.
 </details>
 
-**# of Campaign State vs. Parent-Category with Country Drop Down Feature**
+<details>
+ <summary><b># of Campaign State vs. Parent-Category with Country Drop Down Feature</b></summary>
+ 
 * Insert pivot tab in a new tab.
 * Field List will be populated and drag the following:
   * state into the columns section
@@ -36,6 +38,7 @@ An excel file has been provided with the details of the 4,000 projects to conduc
 * Upon completing the pivot table, ensure it is selected and click the Pivot Chart button from the PivotAnalyze Menu.
 * Choose columns and ensure it is in a bar stacked format.
 * Format titles, axis as necessary.
+</details>
 
 **# of Campaign State vs. Sub-Category with Country and Parent-Category Drop Down Feature**
 * Insert pivot tab in another tab.
