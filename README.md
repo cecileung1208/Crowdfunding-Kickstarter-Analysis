@@ -16,13 +16,14 @@
   * Statistic calculation includes mean, median, minimum value, maximum value, variance (population & sample) and standard deviation (population & sample).
   
 ## Method 
-
-**Campaign Details**<br>
+<details>
+ <summary>**Campaign Details**</summary><br>
 An excel file has been provided with the details of the 4,000 projects to conduct the following analysis:
 * Define the campaign status in the "state" column with conditional formatting using a 4-color scale. 
 * Create a new column Percent Funded to calculate the Percent(%) Fundedd for each project and use conditional formatting using a 3-color scale.
 * Create a new column Average Donation that uses a formula to uncover how much each backer for the project paid on average.
 * Create two new columns, Category andSub-Category, which use formulas to split the Category and Sub-Category column into two parts.
+</details>
 
 **# of Campaign State vs. Parent-Category with Country Drop Down Feature**
 * Insert pivot tab in a new tab.
