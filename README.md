@@ -4,7 +4,7 @@
 
 ## Background
 
-4,000 projects will be examined to determine the success strategies and key trends to scure funding from Kickstarter, a highly successful crowdfunding service donor.
+4,000 projects will be examined to determine the success strategies and key trends to secure funding from Kickstarter, a highly successful crowdfunding service donor.
 
 ## Requirements
 
